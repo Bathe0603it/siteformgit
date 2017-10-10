@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'segoe ui';
+    src: url('../font/segoeui.ttf');
+}
+.hidden{display:none;}
+
+a{text-decoration: none;-webkit-transition: all 0.2s ease-in-out;-moz-transition: all 0.2s ease-in-out;-ms-transition: all 0.2s ease-in-out;-o-transition: all 0.2s ease-in-out;transition: all 0.2s ease-in-out;}
+a:hover, a:focus{ text-decoration: none; }
+.ul{list-style: none;margin: 0;padding: 0;}
+.ul li{margin: 0;padding: 0;}
+
+*{box-sizing: border-box;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-o-box-sizing: border-box;-ms-box-sizing: border-box;}
+.transition{
+	transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
+.clearfix {
+		zoom: 1;
+}
+
+.clearfix:after {
+		clear: both;
+		content: ".";
+		display: block;
+		height: 0;
+		line-height: 0;
+		visibility: hidden;
+}
+
+.btn-default.active, .btn-default:active, .btn-default:focus, .btn-default:hover, .open>.btn-default.dropdown-toggle { color: #479ccf !important; }
+.btn-default.active span, .btn-default:active span, .btn-default:focus span, .btn-default:hover span, .open>.btn-default.dropdown-toggle span{ color: #479ccf !important; }
+
+.btn{ color: #479ccf !important; }
+.boxButtonHead{ float: right;background: transparent;margin-top: 0;margin-bottom: 0;font-size: 12px;padding: 7px 5px;position: absolute;top: 15px;right: 10px;border-radius: 2px; }
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
